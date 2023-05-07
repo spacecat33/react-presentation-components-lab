@@ -13,3 +13,11 @@ ReactDOM.render(
   </div>,
   document.getElementById('root')
 );
+
+// ReactDOM.render(
+//   <div>
+//     <SimpleComponent />
+//     <SimplerComponent handleClick={() => alert("clicked!")} />
+//   </div>,
+//   document.getElementById('root')
+// );
